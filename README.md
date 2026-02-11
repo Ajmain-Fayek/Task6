@@ -11,34 +11,34 @@ A lightweight, real-time Tic Tac Toe game built for instant fun. No accounts. No
 ## 🚀 Features
 
 - ✅ No Account Required
-    - Start playing instantly without registration or login.
+  - Start playing instantly without registration or login.
 
 - 😎 Choose Your Code Name
-    - Enter a unique and fun nickname before joining a session.
+  - Enter a unique and fun nickname before joining a session.
 
-    - 🔐 Create Public or Private Sessions
+  - 🔐 Create Public or Private Sessions
 
-    - Public: Anyone can join
+  - Public: Anyone can join
 
-    - Private: Invite-only with session ID
+  - Private: Invite-only with session ID
 
 - 👥 Invite Friends Easily
-    - Share the session link or ID to start playing together.
+  - Share the session link or ID to start playing together.
 
 - 💬 Unrestricted & Encrypted Chat
-    -Secure, real-time communication inside each session.
+  -Secure, real-time communication inside each session.
 
 - 🧠 No Database
-    - The application runs entirely without persistent storage.
+  - The application runs entirely without persistent storage.
 
 - ⚡ In-Memory Sessions
-    - Sessions are stored in memory for ultra-fast gameplay.
+  - Sessions are stored in memory for ultra-fast gameplay.
 
 - 🔄 Automatic Reconnection
-    - Reloading the page reconnects you to your existing session.
+  - Reloading the page reconnects you to your existing session.
 
 - 🎸 Rock and Roll Experience
-    - Minimal, fast, and focused on gameplay.
+  - Minimal, fast, and focused on gameplay.
 
 ---
 
@@ -75,10 +75,9 @@ A lightweight, real-time Tic Tac Toe game built for instant fun. No accounts. No
 ## ⚠️ Important Notes
 
 - Since sessions are stored in memory:
+  - Restarting the server clears all sessions.
 
-    - Restarting the server clears all sessions.
-
-    - Sessions are temporary and not permanently stored.
+  - Sessions are temporary and not permanently stored.
 
 - Designed for simplicity and speed rather than long-term persistence.
 
@@ -94,5 +93,5 @@ npm install
 npm run dev
 
 # Or start production server
-npm start🛠️ Setup & Run
+npm start
 ```
